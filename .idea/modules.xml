@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ywf-rpc-core/runyuan-rpc-core.iml" filepath="$PROJECT_DIR$/ywf-rpc-core/runyuan-rpc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ywf-rpc-easy/runyuan-rpc-easy.iml" filepath="$PROJECT_DIR$/ywf-rpc-easy/runyuan-rpc-easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ywf-rpc-starter/runyuan-rpc-starter.iml" filepath="$PROJECT_DIR$/ywf-rpc-starter/runyuan-rpc-starter.iml" />
+    </modules>
+  </component>
+</project>

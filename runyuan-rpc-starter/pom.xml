@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ywf</groupId>
-    <artifactId>spring-boot-consumer</artifactId>
+    <artifactId>runyuan-rpc-starter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-consumer</name>
-    <description>spring-boot-consumer</description>
+    <name>runyuan-rpc-starter</name>
+    <description>runyuan-rpc-starter</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -35,12 +35,7 @@
         </dependency>
         <dependency>
             <groupId>com.ywf</groupId>
-            <artifactId>runyuan-rpc-starter</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.ywf</groupId>
-            <artifactId>common</artifactId>
+            <artifactId>runyuan-rpc-core</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
@@ -74,7 +69,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.ywf.Consumer</mainClass>
+                    <mainClass>com.ywf.App</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>

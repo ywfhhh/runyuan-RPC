@@ -9,7 +9,6 @@ import java.util.List;
 
 /**
  * 服务提供者示例
- *
  */
 public class ProviderMain {
 

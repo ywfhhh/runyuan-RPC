@@ -1,4 +1,5 @@
 package com.ywf.common;
+
 import com.ywf.common.model.User;
 import com.ywf.rpc.proxy.ServiceProxyFactory;
 import com.ywf.common.service.UserService;

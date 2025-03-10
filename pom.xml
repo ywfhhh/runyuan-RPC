@@ -4,17 +4,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
-    <artifactId>ywf-rpc</artifactId>
+    <groupId>com.ywf</groupId>
+    <artifactId>runyuan-rpc</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
         <module>common</module>
         <module>consumer</module>
         <module>provider</module>
-        <module>ywf-rpc-easy</module>
-        <module>ywf-rpc-core</module>
-        <module>ywf-rpc-starter</module>
+        <module>runyuan-rpc-easy</module>
+        <module>runyuan-rpc-core</module>
+        <module>runyuan-rpc-starter</module>
         <module>spring-boot-provider</module>
         <module>spring-boot-consumer</module>
     </modules>

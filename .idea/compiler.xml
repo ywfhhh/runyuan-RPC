@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/ywf-rpc-springboot-starter/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-provider" />
+        <module name="spring-boot-consumer" />
+        <module name="common" />
+        <module name="provider" />
+        <module name="runyuan-rpc-core" />
+        <module name="runyuan-rpc-easy" />
+        <module name="runyuan-rpc-starter" />
+        <module name="consumer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
