@@ -1,0 +1,2 @@
+no=com.ywf.rpc.fault.retry.NoRetryStrategy
+fixedInterval=com.ywf.rpc.fault.retry.FixedIntervalRetryStrategy
