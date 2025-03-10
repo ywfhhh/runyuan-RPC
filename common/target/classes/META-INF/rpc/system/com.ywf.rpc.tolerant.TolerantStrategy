@@ -1,0 +1,2 @@
+failFast=com.ywf.rpc.tolerant.FailFastTolerantStrategy
+failSafe=com.ywf.rpc.tolerant.FailSafeTolerantStrategy

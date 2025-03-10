@@ -1,0 +1,7 @@
+com\ywf\annotations\EnableRpc.class
+com\ywf\annotations\RpcReference.class
+com\ywf\App.class
+com\ywf\bootstrap\RpcConsumerBootstrap.class
+com\ywf\bootstrap\RpcInitBootstrap.class
+com\ywf\annotations\RpcService.class
+com\ywf\bootstrap\RpcProviderBootstrap.class

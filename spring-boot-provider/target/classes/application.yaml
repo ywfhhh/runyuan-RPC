@@ -1,0 +1,4 @@
+rpc:
+  name: ywf
+  version: 2.0
+  serializer: hessian
